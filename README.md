@@ -1,4 +1,4 @@
-# Clone-Practice_https-design.samsung.com-kr
+# Clone-Practice_https://design.samsung.com/kr/
 
 삼성디자인-main , 삼성디자인-main-eng => 장하은
 
