@@ -5,4 +5,4 @@
 
 <h4>디자인삼성_AWARD  => 류준하</h4>
 
-else => 오민석
+<h4>Our Stories, About Us, Career, News => 오민석</h4>
