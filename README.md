@@ -3,7 +3,7 @@
 
 <h4>메인 페이지 & 검색  => 장하은</h4>
 
-![ezgif com-video-to-gif (12)](https://github.com/JangHaEunn/Clone-Practice_https-design.samsung.com-kr/assets/117424784/699aae4b-4fed-4c56-bfea-fb1d7b0cbdef)
+![ezgif com-video-to-gif (15)](https://github.com/JangHaEunn/Clone-Practice_https-design.samsung.com-kr/assets/117424784/c848614d-4b07-4998-bad4-8d459db6c5c7)
 
 <h4>디자인삼성_AWARD  => 류준하</h4>
 
